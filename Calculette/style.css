@@ -59,6 +59,7 @@ form input{
     height: 80px;
     margin: 10px 7px;
     font-size: 20px;
+    border-radius: 10px;
 }
 
 .buttons button:nth-child(17){
